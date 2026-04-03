@@ -81,6 +81,7 @@
 <div align="center">
   <br/>
   <img src="https://streak-stats.demolab.com?user=kiran162005&theme=dark&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kiran162005&theme=github-dark"/>
 </div>
 
 ---
