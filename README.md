@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://linkedin.com/in/kiran-t">
+  <a href="https://www.linkedin.com/in/kiran-t-30159135a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
   </a>
 </p>
