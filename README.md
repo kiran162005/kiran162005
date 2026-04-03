@@ -80,9 +80,7 @@
 
 <div align="center">
   <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=kiran162005&show_icons=true&theme=default&count_private=true" height="150"/>
-
+  <img src="https://streak-stats.demolab.com?user=kiran162005&theme=dark&hide_border=true" alt="Streak" />
 </div>
 
 ---
