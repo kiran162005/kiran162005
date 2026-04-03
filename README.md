@@ -54,7 +54,7 @@
 
 <td width="50%" align="center">
    <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,django,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,tailwind,fastapi" />
 </td>
 
 </tr>
@@ -62,7 +62,7 @@
 <tr>
 <td width="50%" align="center">
   <h3>🗄️ Databases</h3>
-    <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 <br/><br/>
 
 </td>
