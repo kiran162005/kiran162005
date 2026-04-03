@@ -80,7 +80,15 @@
 
 <div align="center">
   <br/>
-  <img src="https://streak-stats.demolab.com?user=kiran162005&theme=dark&hide_border=true" alt="Streak" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=kiran162005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiran162005&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+
+  <br/>
+
+  <img src="https://streak-stats.demolab.com?user=kiran162005&theme=tokyonight&hide_border=true" />
+
 </div>
 
 ---
