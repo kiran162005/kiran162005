@@ -88,7 +88,7 @@
 
 ## 🚀 Projects
 
-- 🎤 **AI Voice-to-Notes Generator** – Converts lecture audio into notes, quizzes, and flashcards using Whisper + LLM  
+- 🎤 **AI Voice-to-Notes Generator** – (Python, Streamlit, Faster-Whisper, Gemini API) Converts lecture audio into notes, quizzes, and flashcards using Whisper + LLM  
 - ♿ **Accessibility Analyzer** – WCAG-based web audit tool with PDF reports  
 - 📊 **GitGrade** – GitHub repo evaluator with scoring & improvement suggestions  
 
