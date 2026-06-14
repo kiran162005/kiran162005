@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/📍 Bangalore, India-1e1e2e?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🎓 CGPA 9.5-1e1e2e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎓 CGPA 9.5/10-1e1e2e?style=for-the-badge" />
   <img src="https://img.shields.io/badge/💼 Open to Internships-1e1e2e?style=for-the-badge" />
 </p>
 
@@ -15,7 +15,7 @@
 
 <p align="center">
   I build full-stack apps with real AI integrations — from live virtual classrooms to speech-to-notes pipelines.
-  Currently studying CS at Garden City University and looking for an internship to grow as an engineer.
+  Pursuing a B.E. in Computer Science at Garden City University, Bangalore, and looking for an internship to grow as an engineer.
 </p>
 
 <br/>
@@ -23,11 +23,11 @@
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,react,nodejs,express,fastapi,mongodb,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,react,nodejs,express,fastapi,mongodb,git,github,vscode" />
 </p>
 
 <p align="center">
-  <code>Gemini API</code> · <code>Groq API</code> · <code>Faster-Whisper</code> · <code>Socket.io</code> · <code>Streamlit</code>
+  <code>Gemini API</code> · <code>Groq API</code> · <code>Faster-Whisper</code> · <code>Socket.io</code> · <code>Streamlit</code> · <code>NLP</code>
 </p>
 
 <br/>
@@ -36,48 +36,41 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top" align="center">
 
 ### 🖥️ SmartClass
 **Virtual Classroom Platform**
 
-Real-time teaching canvas + live chat via Socket.io, with an AI assistant (Groq API) that auto-generates quizzes and study notes from class sessions. Includes PDF/DOCX upload support.
+Real-time teaching canvas + live chat via Socket.io, with an AI assistant (Groq API) that auto-generates quizzes and study notes from class sessions.
 
 `React` `Node.js` `MongoDB` `Socket.io` `Groq API`
 
-</td>
-<td width="50%" valign="top">
+<a href="https://github.com/kiran162005"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
-### 🎤 AI Voice-to-Notes Generator
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🎤 Voice-to-Notes Generator
 **Speech-to-study-material pipeline**
 
-Transcribes lecture audio with Faster-Whisper, then uses Gemini to generate summaries, flashcards, and quizzes. Exports as TXT, PDF, or ZIP via a Streamlit UI.
+Transcribes lecture audio with Faster-Whisper, then uses Gemini to generate summaries, flashcards, and quizzes. Exports as TXT, PDF, or ZIP.
 
 `Python` `Streamlit` `Faster-Whisper` `Gemini API`
 
+<a href="https://github.com/kiran162005"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
+
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top" align="center">
 
 ### 📊 GitGrade
 **GitHub Repo Evaluator**
 
-Scores any repo 0–100 based on structure, commit activity, docs, and tests — then gives an AI-driven roadmap to improve it, via an interactive dashboard.
+Scores any repo 0–100 on structure, commit activity, docs, and tests — then gives an AI-driven improvement roadmap via an interactive dashboard.
 
 `Python` `Streamlit` `GitHub REST API`
 
-</td>
-<td width="50%" valign="top">
-
-### 🎓 Education
-
-**Garden City University, Bangalore**
-B.E. Computer Science & Engineering
-2023 – 2027 · **9.5 CGPA**
-
-**Gopalan PU College, Bangalore**
-PCMB · 2021 – 2023 · 88.8%
+<a href="https://github.com/kiran162005"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Live_Demo-1e1e2e?style=flat-square&logo=streamlit&logoColor=white" /></a>
 
 </td>
 </tr>
@@ -88,7 +81,8 @@ PCMB · 2021 – 2023 · 88.8%
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kiran162005&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kiran162005&show_icons=true&theme=transparent&hide_border=true&hide_title=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=kiran162005&theme=transparent&hide_border=true" />
 </p>
 
 <p align="center">
