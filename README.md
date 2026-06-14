@@ -1,103 +1,49 @@
-<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
+<div align="center">
 
-<h1 align="left">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-  Hi, I'm <strong>Kiran T</strong>
-</h1>
+# kiran T
 
-<h3>Full Stack Developer | MERN • Python • AI/ML</h3>
+```
+> full-stack developer · CSE student (9.5 CGPA) · AI/ML enthusiast
+> based in Bangalore, India · open to internships
+```
 
-<div align="left">
-  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+[![GitHub](https://img.shields.io/badge/-kiran162005-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kiran162005)
+[![LinkedIn](https://img.shields.io/badge/-kiran--t-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiran-t-30159135a/)
+[![Email](https://img.shields.io/badge/-kirantraj16@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kirantraj16@gmail.com)
 
-  <p>
-    I'm a full-stack developer and Computer Science student (CGPA: 9.5) who enjoys building scalable and impactful applications.  
-    Passionate about AI and ML, I focus on creating efficient systems that solve real-world problems.
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:kirantraj16@gmail.com"><img src="https://img.shields.io/badge/📧_kirantraj16@gmail.com-1e1e2e?style=for-the-badge" /></a>
-    <img src="https://img.shields.io/badge/🎓_CSE_(CGPA_9.5)-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🤝_Open_to_Internships-1e1e2e?style=for-the-badge" />
-  </p>
-
-<h3>🌐 Socials</h3>
-  
-<p align="left">
-  <a href="https://github.com/kiran162005">
-    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/kiran-t-30159135a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
-  </a>
-</p>
-
-  <img src="https://komarev.com/ghpvc/?username=kiran162005&style=flat-square&color=blue" alt="Profile Visit"/>
 </div>
 
-<br clear="all" />
+---
 
+### stack
 
-## 🛠️ Skills
-<p align="center">
-<table>
-<tr>
-<td width="50%" align="center">
-<h3>💻 Programming Languages</h3>
+`Python` `JavaScript` `C++` `Java` &nbsp;|&nbsp; `React` `Node.js` `Express` `FastAPI` `MongoDB` &nbsp;|&nbsp; `Gemini API` `Groq API` `Faster-Whisper`
 
- <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css" />
-<br/><br/>
+---
 
-</td>
+### projects
 
-<td width="50%" align="center">
-   <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,tailwind,fastapi" />
-</td>
+**[SmartClass](https://github.com/kiran162005)** — virtual classroom platform with real-time canvas sync, live chat, and an AI assistant for auto-generated quizzes & notes
+`React` `Node.js` `MongoDB` `Socket.io` `Groq API`
 
-</tr>
+**[AI Voice-to-Notes Generator](https://github.com/kiran162005)** — converts lecture audio into summaries, flashcards, and quizzes using Whisper + Gemini
+`Python` `Streamlit` `Faster-Whisper` `Gemini API`
 
-<tr>
-<td width="50%" align="center">
-  <h3>🗄️ Databases</h3>
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-<br/><br/>
+**[GitGrade](https://github.com/kiran162005)** — scores GitHub repos 0–100 on structure, commits, docs, and tests with an AI-driven improvement roadmap
+`Python` `Streamlit` `GitHub REST API`
 
-</td>
+---
 
-<td width="50%" align="center">
-    <h3>🧰 Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,jupyter" />
-</td>
-</tr>
-</table>
-</p>
+### education
 
+`B.E. Computer Science` — Garden City University, Bangalore (2023–2027) — **9.5 CGPA**
 
-## 📊 GitHub Stats
+---
 
 <div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=kiran162005&theme=dark&hide_border=true" alt="Streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kiran162005&theme=github-dark"/>
+
+![Streak](https://streak-stats.demolab.com?user=kiran162005&theme=transparent&hide_border=true)
+
+![Profile views](https://komarev.com/ghpvc/?username=kiran162005&style=flat-square&color=555)
+
 </div>
-
----
-
-## 🚀 Projects
-
-- 🎤 **AI Voice-to-Notes Generator** – (Python, Streamlit, Faster-Whisper, Gemini API) Converts lecture audio into notes, quizzes, and flashcards using Whisper + LLM, Generated exportable reports (TXT, PDF, ZIP) with interactive quiz evaluation
-- ♿ **Accessibility Analyzer** – WCAG-based web audit tool with PDF reports  
-- 📊 **GitGrade** – Scores any GitHub repo 0–100 on structure, commits, docs, and tests. Gives an AI-driven improvement roadmap.  
-
----
-
-## ❤️ Support Me
-
-<p align="center">
-  <a href="#">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
-  </a>
-</p>
