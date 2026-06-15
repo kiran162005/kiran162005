@@ -92,3 +92,9 @@ Scores any repo 0–100 on structure, commit activity, docs, and tests — then 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kiran162005&style=flat-square&color=555" alt="Profile views" />
 </p>
+
+<p align="center">
+  <a href="#">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
+  </a>
+</p>
