@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  I build full-stack apps with real AI integrations — from live virtual classrooms to speech-to-notes pipelines.
+  I build full-stack apps with real AI integrations from live virtual classrooms to speech-to-notes pipelines.
   Pursuing a B.E. in Computer Science at Garden City University, Bangalore, and looking for an internship to grow as an engineer.
 </p>
 
